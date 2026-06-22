@@ -1,0 +1,23 @@
+# Core Image Processing & Math
+opencv-python==4.11.0.86
+numpy==1.26.4
+
+# Hand Tracking & AI
+mediapipe==0.10.21
+
+# Mouse & System Automation
+autopy==4.0.1
+pyautogui==0.9.54
+
+# Windows Volume Control
+pycaw==20240210
+comtypes==1.4.11
+pywin32==310
+
+# Voice Commands
+SpeechRecognition>=3.8.1
+PyAudio>=0.2.11
+
+# Optional/Extra (For Brightness Control)
+screen-brightness-control>=0.24.0
+

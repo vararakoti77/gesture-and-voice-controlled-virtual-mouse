@@ -1,0 +1,105 @@
+# 🖱️ AI Virtual Mouse - Quick Reference Card
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    BASIC GESTURES                           │
+└─────────────────────────────────────────────────────────────┘
+
+👆 MOVE CURSOR
+   → Index finger up, others down
+   → Move your finger to control cursor
+
+✊ CLICK (Pinch)
+   → Touch thumb + index finger together
+   → Quick click
+
+✌️ CLICK (Touch)
+   → Index + middle finger up & close together
+   → More controlled click
+
+✌️ SELECT/DRAG
+   → Index + middle finger up & APART
+   → Drag files, select text
+
+🤟 RIGHT CLICK
+   → 3 fingers up (index, middle, ring) close together
+   → Opens menus
+
+👌 DOUBLE CLICK
+   → Thumb + index + middle close together
+   → Opens folders/files
+
+
+┌─────────────────────────────────────────────────────────────┐
+│                   ADVANCED GESTURES                         │
+└─────────────────────────────────────────────────────────────┘
+
+🤘 SCROLL
+   → Index + pinky up (rock sign)
+   → Move hand up/down to scroll
+
+🤙 VOLUME
+   → Thumb + pinky (phone gesture)
+   → Apart = louder | Together = quieter
+
+🤏 ZOOM
+   → Thumb + middle finger
+   → Apart = zoom in | Together = zoom out
+
+🖐️ SCREENSHOT
+   → All 5 fingers open (palm)
+   → Saves to program folder
+
+🖖 PLAY/PAUSE
+   → 4 fingers up (no thumb)
+   → Controls media playback
+
+🖖 BRIGHTNESS
+   → Thumb + ring finger
+   → Apart/together adjusts brightness
+
+
+┌─────────────────────────────────────────────────────────────┐
+│                     CONTROLS                                │
+└─────────────────────────────────────────────────────────────┘
+
+Q  = Quit program
+M  = Toggle window always-on-top
+
+
+┌─────────────────────────────────────────────────────────────┐
+│                   QUICK TIPS                                │
+└─────────────────────────────────────────────────────────────┘
+
+✓ Keep hand 1-2 feet from camera
+✓ Stay inside the purple box
+✓ Use good lighting
+✓ Move slowly for accuracy
+✓ Wait a moment between gestures
+
+
+┌─────────────────────────────────────────────────────────────┐
+│              GESTURE SUMMARY TABLE                          │
+└─────────────────────────────────────────────────────────────┘
+
+Gesture              | Fingers Up           | Action
+---------------------|----------------------|------------------
+Index only           | ☝️                   | Move cursor
+Thumb+Index pinch    | 👌                   | Click
+Index+Middle close   | ✌️ (close)           | Click
+Index+Middle apart   | ✌️ (apart)           | Drag
+3 fingers close      | 🤟                   | Right-click
+Thumb+Index+Middle   | 👌✌️                 | Double-click
+Index+Pinky          | 🤘                   | Scroll
+Thumb+Pinky          | 🤙                   | Volume
+Thumb+Middle         | 🤏                   | Zoom
+All 5 fingers        | 🖐️                   | Screenshot
+4 fingers (no thumb) | 🖖                   | Play/Pause
+Thumb+Ring           | 👌+💍                | Brightness
+
+
+```
+
+---
+
+**Print this for quick reference while using the AI Virtual Mouse!**
